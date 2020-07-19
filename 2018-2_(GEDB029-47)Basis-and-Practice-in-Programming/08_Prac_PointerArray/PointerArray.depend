@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1542587309 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\pointerarraay\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542589293 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\pointerarraay\snakeladder.c
+	<stdio.h>
+	<stdlib.h>
+
+1542591005 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\pointerarray\reversestring.c
+	<stdio.h>
+	<stdlib.h>
+
+1542588132 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\pointerarray\maxvalue.c
+	<stdio.h>
+	<stdlib.h>
+
+1542591241 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\pointerarray\maxvaluepointer.c
+	<stdio.h>
+	<stdlib.h>
+

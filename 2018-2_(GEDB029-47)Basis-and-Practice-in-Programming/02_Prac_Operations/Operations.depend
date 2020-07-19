@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537144725 source:c:\users\skku\desktop\새 폴더\02_practice_operations\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537145062 source:c:\users\skku\desktop\새 폴더\02_practice_operations\type casting.c
+	<stdio.h>
+	<stdlib.h>
+

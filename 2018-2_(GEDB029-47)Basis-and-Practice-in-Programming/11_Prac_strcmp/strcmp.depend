@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1544401460 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\strcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1544403883 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\strcmp\atoi function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1544406091 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\strcmp\check attendance.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

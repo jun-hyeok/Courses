@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538960784 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\2nd semester\basis and practice in programming\c\greatestcommondivisor\main.c
+	<stdio.h>
+	<stdlib.h>
+

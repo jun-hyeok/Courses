@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1541981452 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\pointer\quiz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1541981783 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\pointer\example_1.c
+
+1541984806 source:c:\users\박준혁\onedrive - 성균관대학교\문서\skku_class\basis and practice in programming\c\pointer\exercise.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
