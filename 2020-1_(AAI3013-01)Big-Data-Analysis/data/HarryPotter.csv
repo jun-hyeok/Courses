@@ -1,0 +1,41 @@
+from,to
+Harry ,Ron
+Harry ,Hermione
+Harry ,Dumbledore
+Harry ,Hagrid
+Harry ,Snape
+Harry ,Voldemort
+Harry ,Diggory
+Harry ,Myrtle
+Harry ,Moody
+Harry ,Malfoy
+Harry ,Cho
+Hermione,Harry
+Hermione,Ron
+Hermione,Dumbledore
+Hermione,Hagrid
+Hermione,Victor
+Hermione,Longbottom
+Hermione,Ginny
+Ron,Harry
+Ron,Hermione
+Ron,Dumbledore
+Ron,Hagrid
+Ron,Fleur
+Ron,Ginny
+Ron,George
+Ron,Fred
+Dumbledore,Moody
+Dumbledore,Snape
+Dumbledore,Hagrid
+Dumbledore,Macgonagall
+Dumbledore,Filch
+Dumbledore,Igor
+Voldemort,Lucius
+Voldemort,Diggory
+Voldemort,Pettigrew
+Hagrid,Madam
+Moody,Crouch Junior
+Filch,Norris
+Malfoy,Goyle
+Malfoy,Crabbe
