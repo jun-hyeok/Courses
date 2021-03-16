@@ -4,3 +4,6 @@
 [submodule "GEDB029-47_Basis-and-Practice-in-Programming_2018Fall"]
 	path = GEDB029-47_Basis-and-Practice-in-Programming_2018Fall
 	url = https://github.com/jun-hyeok/GEDB029-47_Basis-and-Practice-in-Programming_2018Fall
+[submodule "GBE2027-41_BME-Engineering-Mathematics-I_2019Spring"]
+	path = GBE2027-41_BME-Engineering-Mathematics-I_2019Spring
+	url = https://github.com/jun-hyeok/GBE2027-41_BME-Engineering-Mathematics-I_2019Spring
