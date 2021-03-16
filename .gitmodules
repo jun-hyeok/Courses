@@ -1,3 +1,6 @@
 [submodule "GEDB030-47_Computer-Programming-for-Engineers_2018Spring"]
 	path = GEDB030-47_Computer-Programming-for-Engineers_2018Spring
 	url = https://github.com/jun-hyeok/GEDB030-47_Computer-Programming-for-Engineers_2018Spring
+[submodule "GEDB029-47_Basis-and-Practice-in-Programming_2018Fall"]
+	path = GEDB029-47_Basis-and-Practice-in-Programming_2018Fall
+	url = https://github.com/jun-hyeok/GEDB029-47_Basis-and-Practice-in-Programming_2018Fall
