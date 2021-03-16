@@ -22,3 +22,6 @@
 [submodule "AAI2012-02_Computational-Thinking-Programming-and-Application_2020Spring"]
 	path = AAI2012-02_Computational-Thinking-Programming-and-Application_2020Spring
 	url = https://github.com/jun-hyeok/AAI2012-02_Computational-Thinking-Programming-and-Application_2020Spring
+[submodule "AAI3013-01_Big-Data-Analysis_2020Spring"]
+	path = AAI3013-01_Big-Data-Analysis_2020Spring
+	url = https://github.com/jun-hyeok/AAI3013-01_Big-Data-Analysis_2020Spring
