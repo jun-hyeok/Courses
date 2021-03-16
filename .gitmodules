@@ -19,3 +19,6 @@
 [submodule "AAI2011-02_Introduction-to-System-Programming_2020Spring"]
 	path = AAI2011-02_Introduction-to-System-Programming_2020Spring
 	url = https://github.com/jun-hyeok/AAI2011-02_Introduction-to-System-Programming_2020Spring
+[submodule "AAI2012-02_Computational-Thinking-Programming-and-Application_2020Spring"]
+	path = AAI2012-02_Computational-Thinking-Programming-and-Application_2020Spring
+	url = https://github.com/jun-hyeok/AAI2012-02_Computational-Thinking-Programming-and-Application_2020Spring
