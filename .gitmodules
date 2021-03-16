@@ -10,3 +10,6 @@
 [submodule "GBE2028-41_BME-Engineering-Mathematics-II_2019Fall"]
 	path = GBE2028-41_BME-Engineering-Mathematics-II_2019Fall
 	url = https://github.com/jun-hyeok/GBE2028-41_BME-Engineering-Mathematics-II_2019Fall
+[submodule "GBE3065-41_Introduction-to-matlab-programing-and-machine-learning_2020Spring"]
+	path = GBE3065-41_Introduction-to-matlab-programing-and-machine-learning_2020Spring
+	url = https://github.com/jun-hyeok/GBE3065-41_Introduction-to-matlab-programing-and-machine-learning_2020Spring
