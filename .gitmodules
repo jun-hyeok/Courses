@@ -32,3 +32,6 @@
 	path = AAI3006-01_Machine-Learning_2021Spring
 	url = https://github.com/jun-hyeok/AAI3006-01_Machine-Learning_2021Spring.git
 	branch = main
+[submodule "SWE3052-41_Introduction-to-Deep-Neural-Networks_2021Spring"]
+	path = SWE3052-41_Introduction-to-Deep-Neural-Networks_2021Spring
+	url = git@github.com:jun-hyeok/SWE3052-41_Introduction-to-Deep-Neural-Networks_2021Spring.git
