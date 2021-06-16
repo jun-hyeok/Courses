@@ -28,3 +28,7 @@
 [submodule "AAI2007-01_Introduction-to-Algorithm_2020Fall"]
 	path = AAI2007-01_Introduction-to-Algorithm_2020Fall
 	url = https://github.com/jun-hyeok/AAI2007-01_Introduction-to-Algorithm_2020Fall
+[submodule "AAI3006-01_Machine-Learning_2021Spring"]
+	path = AAI3006-01_Machine-Learning_2021Spring
+	url = https://github.com/jun-hyeok/AAI3006-01_Machine-Learning_2021Spring.git
+	branch = main
